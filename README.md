@@ -33,6 +33,8 @@ Add meta and link tags to head.
   <!-- Material(Android) theme styles -->
   <link rel="stylesheet" href="/packages/nobutakaoshiro_framework7-ios-material/framework7/dist/css/framework7.material.min.css">
   <link rel="stylesheet" href="/packages/nobutakaoshiro_framework7-ios-material/framework7/dist/css/framework7.material.colors.min.css">
+  <!-- Add New Framework 7 icons -->
+  <link rel="stylesheet" href="/packages/nobutakaoshiro_framework7-ios-material/Framework7-Icons/css/framework7-icons.css">
 </head>
 ```
 
@@ -71,6 +73,9 @@ if (Meteor.isClient) {
 /packages/nobutakaoshiro_framework7-ios-material/dist/css/framework7.material.colors.min.css
 /packages/nobutakaoshiro_framework7-ios-material/dist/css/framework7.material.rtl.css
 /packages/nobutakaoshiro_framework7-ios-material/dist/css/framework7.material.rtl.min.css
+
+#Icons
+/packages/nobutakaoshiro_framework7-ios-material/Framework7-Icons/css/framework7-icons.css
 ```
 
 # Documentation
